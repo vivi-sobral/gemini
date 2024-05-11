@@ -4,4 +4,6 @@ Queria criar uma solução que me ajudasse e tamém ajudasse a todas as mulheres
 
 Eis que surge minha idéia no gemini.
 Com algumas perguntas ele gera para a gente todos o cardápio e o ingreditentes necessários para a execução ao longo da semana.
-As crinaças vão amar novos sabores e a gente vai amar delegar essa tarefa. Enjoy it!
+As crinaças vão amar novos sabores e a gente vai amar delegar essa tarefa. 
+
+Enjoy it!
